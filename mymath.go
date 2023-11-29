@@ -1,4 +1,4 @@
-package github.com/WIndbladeRonin/mymath
+package mymath
 
 import "math"
 
@@ -25,4 +25,3 @@ func Max(x, y float64) float64 {
 func Min(x, y float64) float64 {
     return math.Min(x, y)
 }
-
