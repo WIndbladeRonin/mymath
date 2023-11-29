@@ -1,4 +1,4 @@
-package mymath
+package github.com/WIndbladeRonin/mymath
 
 import "math"
 
