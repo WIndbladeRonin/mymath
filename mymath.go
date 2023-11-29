@@ -1,6 +1,6 @@
 package mymath
 
-import "math"
+import "github.com/WIndbladeRonin/mymath"
 
 func Sqrt(x float64) float64 {
     return math.Sqrt(x)
